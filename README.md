@@ -1,3 +1,112 @@
-# My Awesome Book
+# Google 软件测试之道
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这是学习《Google 软件测试之道》时的笔记, 已经整理成 [GitBook](https://l1nwatch.gitbooks.io/google-software-test-path/content/) 形式了
+
+## 目录
+
+* 第 1 章 Google 软件测试介绍
+    * 1.1 质量不等于测试
+    * 1.2 角色
+        * 1.2.1 软件开发工程师(SWE)
+        * 1.2.2 软件测试开发工程师(SET)
+        * 1.2.3 测试工程师(TE)
+    * 1.3 组织结构
+    * 1.4 爬、走、跑
+    * 1.5 测试类型
+* 第 2 章 软件测试开发工程师
+    * 2.1 SET 的工作
+        * 2.1.1 开发和测试流程
+        * 2.1.2 SET 究竟是谁
+        * 2.1.3 项目的早期阶段
+        * 2.1.4 团队结构
+        * 2.1.5 设计文档
+        * 2.1.6 接口与协议
+        * 2.1.7 自动化计划
+        * 2.1.8 可测试性
+        * 2.1.9 SET 的工作流程:一个实例
+        * 2.1.10 测试执行
+        * 2.1.11 测试大小的定义
+        * 2.1.12 测试规模在共享测试平台中的使用
+        * 2.1.13 测试规模的益处
+        * 2.1.14 测试运行要求
+    * 2.2 测试认证
+    * 2.3 SET 的招聘
+    * 2.4 与工具开发工程师 Ted Mao 的访谈
+    * 2.5 与 Web Driver 的创建者 Simon Stewart 的对话
+* 第 3 章 测试工程师
+    * 3.1 一种面向用户的测试角色
+    * 3.2 测试工程师的工作
+        * 3.2.1 测试计划
+        * 3.2.2 风险
+        * 3.2.3 测试用例的生命周期
+        * 3.2.4 bug 的生命周期
+        * 3.2.5 TE 的招聘
+        * 3.2.6 Google 的测试领导和管理工作
+        * 3.2.7 维护模式的测试(Maintenance Mode Testing)
+        * 3.2.8 质量机器人(Quality Bot)实验
+        * 3.2.9 BITE 实验
+        * 3.2.10 Google Test Analysis
+        * 3.2.11 零成本测试流程
+        * 3.2.12 外部供应商
+    * 3.3 与 Google Docs 测试工程师 Lindsay Webster 的访谈
+    * 3.4 与 YouTube 测试工程师 Apple Chow 的访谈
+* 第 4 章 测试工程经理
+    * 4.1 测试工程经理的工作
+    * 4.2 获得项目和人员
+    * 4.3 影响力
+    * 4.4 Gmail 测试工程经理 Ankit Mehta 的访谈
+    * 4.5 Android 测试工程经理 Hung Dang 的访谈
+    * 4.6 Chrome 测试工程经理 Joel Hynoski 的访谈
+    * 4.7 测试总监
+    * 4.8 搜索和地理信息测试总监 Shelton Mar 的访谈
+    * 4.9 工程工具总监 Ashish Kumar 的访谈
+    * 4.10 印度 Google 测试总监 SujaySahni 访谈
+    * 4.11 工程经理 Brad Green 访谈
+    * 4.12 James Whittaker 访谈
+* 第 5 章 Google 软件测试改进
+    * 5.1 Google 流程中的致命缺陷
+    * 5.2 SET 的未来
+    * 5.3 TE 的未来
+    * 5.4 测试总监和经理的未来
+    * 5.5 未来的测试基础设施
+    * 5.6 结论
+* 附录 A Chrome OS 测试计划
+    * A.1 测试主题概述
+    * A.2 风险分析
+    * A.3 每次构件版本的基线测试
+    * A.4 最新可测试版本(Last Known Good,LKG)的每日测试
+    * A.5 发布版本测试
+    * A.6 手工测试与自动化测试
+    * A.7 开发和测试的质量关注点
+    * A.8 发布通道
+    * A.9 用户输入
+    * A.10 测试用例库
+    * A.11 测试仪表盘
+    * A.12 虚拟化
+    * A.13 性能
+    * A.14 压力、长时运行和稳定性测试
+    * A.15 测试执行框架(Autotest)
+    * A.16 OEM 厂商
+    * A.17 硬件实验田
+    * A.18 端到端测试自动化集群
+    * A.19 测试浏览器的应用管理器
+    * A.20 浏览器的可测试性
+    * A.21 硬件
+    * A.22 时间线
+    * A.23 主要的测试驱动力
+    * A.24 相关文档
+* 附录 B Chrome 的漫游测试
+    * B.1 购物漫游
+    * B.2 学生漫游
+    * B.3 国际长途电话漫游
+    * B.4 地标漫游
+    * B.5 通宵漫游
+    * B.6 公务漫游测试
+    * B.7 危险地带漫游
+    * B.8 个性化漫游
+* 附录 C 有关工具和代码的博客文章
+    * C.1 使用 BITE 从 bug 和冗余的工作中解脱出来
+    * C.2 发布 QualityBot
+    * C.3 RPE: Google 的录制回放框架
+    * C.4 Google 测试分析系统(Google Test Analytics)——现在开源了
+* 附录 D 术语表
