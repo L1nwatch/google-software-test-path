@@ -2,6 +2,8 @@
 
 这是学习《Google 软件测试之道》时的笔记, 已经整理成 [GitBook](https://l1nwatch.gitbooks.io/google-software-test-path/content/) 形式了
 
+【PS: 觉得这本书不适合以这种方式做笔记, 已放弃】
+
 ## 目录
 
 * 第 1 章 Google 软件测试介绍
